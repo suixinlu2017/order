@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                   陈玉龙的 家常菜
+                   傅铠浩的 家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
